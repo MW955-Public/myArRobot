@@ -1,2 +1,3 @@
 # myArRobot
-Website for Robot Children interaction research with three.js 
+Website for Robot Children interaction research with three.js @ cornell robotic interaction lab
+
